@@ -1,0 +1,2 @@
+INSERT INTO list_propinsi(nama_propinsi) VALUES ('Aceh'),('Sumatera Utara'),('Sumatera Barat'),('Riau'),('Kepulauan Riau'),('Jambi'),('Bangka Belitung'),('Sumatera Selatan'),('Lampung');
+INSERT INTO list_kontrasepsi(nama_kontrasepsi) VALUES ('Pil'),('Kondom'),('IUD');
